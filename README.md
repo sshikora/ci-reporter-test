@@ -1,2 +1,2 @@
 # ci-reporter-test
-7 TEST
+8 TEST
