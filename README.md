@@ -1,2 +1,2 @@
 # ci-reporter-test
-15 TEST
+16 TEST
