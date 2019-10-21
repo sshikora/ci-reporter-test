@@ -1,2 +1,2 @@
 # ci-reporter-test
-21 TEST
+22 TEST
